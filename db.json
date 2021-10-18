@@ -1,38 +1,29 @@
 {
-  "databases": [
+  "todos": [
     {
-      "id": 1,
-      "first_name": "Lurline",
-      "last_name": "Dibbs",
-      "email": "ldibbs0@stanford.edu",
-      "gender": "Non-binary"
+      "id": 1111111,
+      "content": "Lurline",
+      "done": false
     },
     {
-      "id": 2,
-      "first_name": "Moises",
-      "last_name": "Marquese",
-      "email": "mmarquese1@dyndns.org",
-      "gender": "Polygender"
+      "id": 2222222,
+      "content": "Waterpark",
+      "done": false
     },
     {
-      "id": 3,
-      "first_name": "Evelin",
-      "last_name": "Puvia",
-      "email": "epuvia2@tuttocitta.it",
-      "gender": "Agender"
+      "id": 3333333,
+      "content": "Why and how and what for",
+      "done": false
     },
     {
-      "id": 4,
-      "first_name": "Winonah",
-      "last_name": "Sweeny",
-      "email": "wsweeny3@google.com",
-      "gender": "Genderfluid"
+      "id": 4444553,
+      "content": "Please let this be a lesson to you",
+      "done": false
     },
     {
-      "id": 5,
-      "first_name": "Claiborn",
-      "last_name": "Mathwen",
-      "email": "cmathwen4@va.gov"
+      "id": 5455553,
+      "content": "Blah blubl bladsda shdjl",
+      "done": false
     }
   ]
 }

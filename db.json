@@ -1,37 +1,38 @@
-[
-  {
-    "id": 1,
-    "first_name": "Lurline",
-    "last_name": "Dibbs",
-    "email": "ldibbs0@stanford.edu",
-    "gender": "Non-binary"
-  },
-  {
-    "id": 2,
-    "first_name": "Moises",
-    "last_name": "Marquese",
-    "email": "mmarquese1@dyndns.org",
-    "gender": "Polygender"
-  },
-  {
-    "id": 3,
-    "first_name": "Evelin",
-    "last_name": "Puvia",
-    "email": "epuvia2@tuttocitta.it",
-    "gender": "Agender"
-  },
-  {
-    "id": 4,
-    "first_name": "Winonah",
-    "last_name": "Sweeny",
-    "email": "wsweeny3@google.com",
-    "gender": "Genderfluid"
-  },
-  {
-    "id": 5,
-    "first_name": "Claiborn",
-    "last_name": "Mathwen",
-    "email": "cmathwen4@va.gov",
-    "ip_address": "222.178.127.106"
-  }
-]
+{
+  "databases": [
+    {
+      "id": 1,
+      "first_name": "Lurline",
+      "last_name": "Dibbs",
+      "email": "ldibbs0@stanford.edu",
+      "gender": "Non-binary"
+    },
+    {
+      "id": 2,
+      "first_name": "Moises",
+      "last_name": "Marquese",
+      "email": "mmarquese1@dyndns.org",
+      "gender": "Polygender"
+    },
+    {
+      "id": 3,
+      "first_name": "Evelin",
+      "last_name": "Puvia",
+      "email": "epuvia2@tuttocitta.it",
+      "gender": "Agender"
+    },
+    {
+      "id": 4,
+      "first_name": "Winonah",
+      "last_name": "Sweeny",
+      "email": "wsweeny3@google.com",
+      "gender": "Genderfluid"
+    },
+    {
+      "id": 5,
+      "first_name": "Claiborn",
+      "last_name": "Mathwen",
+      "email": "cmathwen4@va.gov"
+    }
+  ]
+}

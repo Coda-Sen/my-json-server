@@ -33,54 +33,5 @@
     "last_name": "Mathwen",
     "email": "cmathwen4@va.gov",
     "ip_address": "222.178.127.106"
-  },
-  {
-    "id": 6,
-    "first_name": "Madalyn",
-    "last_name": "Giddens",
-    "email": "mgiddens5@mapquest.com",
-    "ip_address": "63.229.92.22"
-  },
-  {
-    "id": 95,
-    "first_name": "Ebeneser",
-    "last_name": "Dinnis",
-    "email": "edinnis2m@sitemeter.com",
-    "gender": "Genderfluid"
-  },
-  {
-    "id": 96,
-    "first_name": "Ninette",
-    "last_name": "De Filippi",
-    "email": "ndefilippi2n@youtu.be",
-    "gender": "Male"
-  },
-  {
-    "id": 97,
-    "first_name": "Conrado",
-    "last_name": "Farnfield",
-    "email": "cfarnfield2o@huffingtonpost.com",
-    "gender": "Female"
-  },
-  {
-    "id": 98,
-    "first_name": "Eldon",
-    "last_name": "Stroder",
-    "email": "estroder2p@51.la",
-    "gender": "Male"
-  },
-  {
-    "id": 99,
-    "first_name": "Jaimie",
-    "last_name": "Lorden",
-    "email": "jlorden2q@webnode.com",
-    "gender": "Agender"
-  },
-  {
-    "id": 100,
-    "first_name": "Christiane",
-    "last_name": "Lynch",
-    "email": "clynch2r@quantcast.com",
-    "gender": "Genderqueer"
   }
 ]

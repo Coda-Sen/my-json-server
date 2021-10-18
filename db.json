@@ -4,39 +4,34 @@
     "first_name": "Lurline",
     "last_name": "Dibbs",
     "email": "ldibbs0@stanford.edu",
-    "gender": "Non-binary",
-    "ip_address": "77.142.3.50"
+    "gender": "Non-binary"
   },
   {
     "id": 2,
     "first_name": "Moises",
     "last_name": "Marquese",
     "email": "mmarquese1@dyndns.org",
-    "gender": "Polygender",
-    "ip_address": "254.209.193.5"
+    "gender": "Polygender"
   },
   {
     "id": 3,
     "first_name": "Evelin",
     "last_name": "Puvia",
     "email": "epuvia2@tuttocitta.it",
-    "gender": "Agender",
-    "ip_address": "45.97.181.212"
+    "gender": "Agender"
   },
   {
     "id": 4,
     "first_name": "Winonah",
     "last_name": "Sweeny",
     "email": "wsweeny3@google.com",
-    "gender": "Genderfluid",
-    "ip_address": "11.162.254.31"
+    "gender": "Genderfluid"
   },
   {
     "id": 5,
     "first_name": "Claiborn",
     "last_name": "Mathwen",
     "email": "cmathwen4@va.gov",
-    "gender": "Non-binary",
     "ip_address": "222.178.127.106"
   },
   {
@@ -44,7 +39,6 @@
     "first_name": "Madalyn",
     "last_name": "Giddens",
     "email": "mgiddens5@mapquest.com",
-    "gender": "Genderfluid",
     "ip_address": "63.229.92.22"
   },
   {
@@ -52,47 +46,41 @@
     "first_name": "Ebeneser",
     "last_name": "Dinnis",
     "email": "edinnis2m@sitemeter.com",
-    "gender": "Genderfluid",
-    "ip_address": "223.207.16.116"
+    "gender": "Genderfluid"
   },
   {
     "id": 96,
     "first_name": "Ninette",
     "last_name": "De Filippi",
     "email": "ndefilippi2n@youtu.be",
-    "gender": "Male",
-    "ip_address": "132.252.109.171"
+    "gender": "Male"
   },
   {
     "id": 97,
     "first_name": "Conrado",
     "last_name": "Farnfield",
     "email": "cfarnfield2o@huffingtonpost.com",
-    "gender": "Female",
-    "ip_address": "87.99.198.59"
+    "gender": "Female"
   },
   {
     "id": 98,
     "first_name": "Eldon",
     "last_name": "Stroder",
     "email": "estroder2p@51.la",
-    "gender": "Male",
-    "ip_address": "56.14.166.160"
+    "gender": "Male"
   },
   {
     "id": 99,
     "first_name": "Jaimie",
     "last_name": "Lorden",
     "email": "jlorden2q@webnode.com",
-    "gender": "Agender",
-    "ip_address": "239.83.193.94"
+    "gender": "Agender"
   },
   {
     "id": 100,
     "first_name": "Christiane",
     "last_name": "Lynch",
     "email": "clynch2r@quantcast.com",
-    "gender": "Genderqueer",
-    "ip_address": "225.41.71.122"
+    "gender": "Genderqueer"
   }
 ]

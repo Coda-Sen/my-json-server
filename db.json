@@ -2,13 +2,13 @@
   "todos": [
     {
       "id": 1111111,
-      "content": "Lurline",
+      "content": "Lawline!",
       "done": false
     },
     {
       "id": 2222222,
-      "content": "Waterpark",
-      "done": false
+      "content": "Watterpurke",
+      "done": true
     },
     {
       "id": 3333333,
